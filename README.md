@@ -65,7 +65,7 @@ To do this,you can use the following commands:
 ------
 ------
 ------
-# Project Title: Advanced Graph Learning Techniques
+# Project Title: [Advanced Graph Learning Techniques](https://github.com/kyrran/DeepGraphBasedLearning/blob/main/notebook%20(1).ipynb)
 
 ## Overview
 
